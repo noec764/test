@@ -5,6 +5,7 @@ app_description = "s"
 app_email = "noe@bie.com"
 app_license = "mit"
 source_link = "http://github.com/noec764/test"
+required_apps = ["erpnext"]
 
 # Apps
 # ------------------
