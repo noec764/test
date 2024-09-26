@@ -4,6 +4,8 @@ app_publisher = "noe"
 app_description = "s"
 app_email = "noe@bie.com"
 app_license = "mit"
+required_apps = ["frappe/erpnext"]
+source_link = "http://github.com/noec764/test"
 
 # Apps
 # ------------------
